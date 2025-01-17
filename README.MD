@@ -5,7 +5,7 @@
 
 Projeto com o objetivo de gerar um e-book digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+file:///C:/Users/Aline%20Borges/Desktop/E-book%20sobre%20Investimentos%20RF%20e%20RV%20(Aline%20Borges%202025).pdf
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -28,7 +28,7 @@ DeepAI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| Título | A woman wearing a glasses in an office, in front of a laptop thinking about investiments, with a cloud of thoughts like numbers, money, graphs |
+| Título | A woman wearing glasses in an office, in front of a laptop thinking about investments, with a cloud of thoughts like numbers, money, graphs |
 
 ## ✨ Features
 
@@ -37,12 +37,11 @@ DeepAI：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- E-book gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point para diagramação.
 
 ## 👨‍💻 Expert
 
