@@ -5,7 +5,10 @@
 
 Projeto com o objetivo de gerar um e-book digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
-file:///C:/Users/Aline%20Borges/Desktop/E-book%20sobre%20Investimentos%20RF%20e%20RV%20(Aline%20Borges%202025).pdf
+Segue o E-book completo no endereço abaixo:
+https://1drv.ms/b/s!AqBYy20oKvcBgRLfLlSGU6pYgvuY?e=pd4Wgu
+
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
