@@ -5,7 +5,7 @@
 
 Projeto com o objetivo de gerar um e-book digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
-Segue o E-book completo no endereço abaixo:
+Segue o E-book completo no endereço:
 https://1drv.ms/b/s!AqBYy20oKvcBgRLfLlSGU6pYgvuY?e=pd4Wgu
 
 
